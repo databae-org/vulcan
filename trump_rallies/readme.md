@@ -9,4 +9,8 @@ Contains:
 
 Note that the cleaning process makes several editorial decisions, including taking the lower number whenever a range of attendance was given, and interpreting attendance of "thousands" as "2,000" as a placeholder.
 
+`trumprallies_process.R` will also create a chart in `ggplot`:
+
+![](https://raw.githubusercontent.com/dhmontgomery/vulcan/master/trump_rallies/trumprallies.png)
+
 Written by David H. Montgomery.
